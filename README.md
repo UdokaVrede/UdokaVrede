@@ -11,5 +11,5 @@ Currently, I am the serving Vice President of the Department of Computer Science
 - 💬 Ask me about Data analysis, python, Technical writer and open source contribution
 - 📫 How to reach me: [Udoka](https://twitter.com/Udoka_Ugo_) or via [E-mail](UdokakuUgochukwu@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I make pastries and love playing games.
+- ⚡ Fun fact: I speak abit of Dutch, make pastries and love playing games.
 - My [blog](https://udoka.hashnode.dev/) here houses awesome articles. 
