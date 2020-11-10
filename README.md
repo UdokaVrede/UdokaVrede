@@ -1,8 +1,5 @@
 ### Hey there 👋 👩‍💻
 
-<!--
-**UdokaVrede/UdokaVrede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Udokaku Ugochukwu, a self-taught python developer, Technical writer,Free open source contributor and data science enthusiast residing in Port-Harcourt, Nigeria passionate about creating usable products from effective data analysis,creating a welcoming enviroment for getting more women into tech and building communities. Some tools in my kit include Python,Pandas, Numpy, Matplotlib,Tkinter, HTML5 and CSS.
 Currently, I am the serving Vice President of the Department of Computer Science, Fedponek, Owerri, Nigeria. My interest in building communities led me to being inaugurated the co-lead of Fedponek tech group.
 
