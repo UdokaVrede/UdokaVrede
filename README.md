@@ -7,8 +7,7 @@ Currently, I am the serving Vice President of the Department of Computer Science
 - 🔭 I’m currently working on acquiring more data skills.
 - 👯 I’m looking to collaborate on creating a seamless onboarding for more people in tech.
 - 🤔 I’m looking for help with awesome python communities.
-- 💬 Ask me about Data analysis, python, Technical writer and open source contribution
-- 📫 How to reach me: [Udoka](https://twitter.com/Udoka_Ugo_) or via 
+- 💬 Ask me about Data analysis, python, Technical writer and open source.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak abit of Dutch, make pastries and love playing games.
 - My [blog](https://udoka.hashnode.dev/) here houses awesome articles. 
