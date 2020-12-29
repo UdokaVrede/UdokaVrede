@@ -13,7 +13,7 @@ Currently, I am the serving Vice President of the Department of Computer Science
 - ⚡ Fun fact: I speak abit of Dutch, make pastries and love playing games.
 - My [blog](https://udoka.hashnode.dev/) here houses awesome articles. 
 
-## Current Projects </br>
+## Current Projects
 <details>
   <summary> Click to expand </summary>
   
@@ -21,7 +21,7 @@ Currently, I am the serving Vice President of the Department of Computer Science
 - **Desiderata**: where Idocument my data journey. 
   </details>
 
-## Connect with Me </br>
+## Connect with Me
 <details>
   <summary> Click to expand </summary>
   
