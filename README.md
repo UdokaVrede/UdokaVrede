@@ -1,6 +1,6 @@
 ## Hey there 👋 👩‍💻
 
-I am Udokaku Ugochukwu, <strong</strong> a self-taught python developer, Technical writer, studying in Federal Polytechnic Nekede and I reside in Port-Harcourt, Nigeria.
+I am Udokaku Ugochukwu,  a self-taught python developer, Technical writer, studying in Federal Polytechnic Nekede and I reside in Port-Harcourt, Nigeria.
 I am passionate about creating usable products from effective data analysis, creating a welcoming enviroment for getting more people into tech especially women and building communities. Some tools in my kit include Python, Pandas, Numpy, Matplotlib, Tkinter, HTML5 and CSS.
 Currently, I am the serving Vice President of the Department of Computer Science, Fedponek, Owerri, Nigeria. My interest in building communities led me to being inaugurated the co-lead of Fedponek tech group.
 
