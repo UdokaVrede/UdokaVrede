@@ -17,7 +17,7 @@ Currently, I am the serving Vice President of the Department of Computer Science
   <summary> Click to expand </summary>
   
 - **Crest**: a desktop application built with python and tkinter for keeping track of birthdays.
-- **Desiderata**: where Idocument my data journey. 
+- **Desiderata**: where I document my data journey. 
   </details>
 
 ## Connect with Me
