@@ -17,7 +17,7 @@ Currently, I am the serving Vice President of the Department of Computer Science
 <details>
   <summary> Click to expand </summary>
   
-- **Crest**: a desktop application built with python and tkinter for keeping track of birthdays.
+- **[Crest](https://github.com/udokavrede/CREST)**: a desktop application built with python and tkinter for keeping track of birthdays.
 - **Desiderata**: where I document my data journey. 
   </details>
 
