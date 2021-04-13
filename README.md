@@ -3,7 +3,6 @@
 I am Udokaku Ugochukwu,  a self-taught backend developer, Technical writer, studying in Federal Polytechnic Nekede.<br/>
 I reside in Port-Harcourt, Nigeria.<br/>
 I am passionate about creating usable products from effective data analysis, creating a welcoming enviroment for getting more people into tech especially women and building communities. Some tools in my kit include Python, Pandas, Numpy, Matplotlib, Tkinter, Javascript, HTML5 and CSS.<br/>
-subnet 2021.
 
 - 🔭 I’m currently working on acquiring more data skills.
 - 👯 I’m looking to collaborate on creating a seamless onboarding for more people in tech.
