@@ -21,6 +21,10 @@ Some tools in my kit include Python, Numpy, Matplotlib, Tkinter, HTML5 and CSS.<
 - **[Crest](https://github.com/udokavrede/CREST)**: a desktop application built with python and tkinter for keeping track of birthdays.
   </details>
 
+
+
+[![UdokaVrede GitHub stats](https://github-readme-stats.vercel.app/api?username=UdokaVrede&theme=dark&show_icons=true)](https://github.com/UdokaVrede/github-readme-stats)
+
 ## Connect with Me
 <details>
   <summary> Click to expand </summary>
