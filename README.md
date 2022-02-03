@@ -7,7 +7,7 @@ I am passionate about creating and contributing to usable products,analyzing dat
 
 Some tools in my kit include Python, Numpy, Matplotlib, Tkinter, HTML5 and CSS.<br/>
 
-- 🔭 I’m currently acquiring more software engineering and business analytics skills.
+- 🔭 I’m currently acquiring more people and business analytics skills.
 - 👯 I’m looking to collaborate in creating usable products.
 - 💬 Ask me about: python, data analysis and open source.
 - 😄 Pronouns: She/Her
