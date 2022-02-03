@@ -1,6 +1,6 @@
 ## Hey there 👋 👩‍💻
 
-I am Udokaku Ugochukwu, I'm a Software Developer, Business Analyst and Executive Virtual Assistant.<br/>
+I am Udokaku Ugochukwu, I'm a Customer Engineer, Business Analyst and Executive Virtual Assistant.<br/>
 I studied Computer Science in Federal Polytechnic Nekede.<br/>
 I reside in Port-Harcourt, Nigeria.<br/>
 I am passionate about creating and contributing to usable products,analyzing data and fostering productivity in people, creating a welcoming enviroment for getting more people into tech especially women and building communities. 
