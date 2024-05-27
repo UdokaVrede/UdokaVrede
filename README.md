@@ -5,7 +5,7 @@ I studied Computer Science<br/>
 I reside in Port-Harcourt, Nigeria.<br/>
 I am passionate about creating and contributing to usable products,analyzing data and fostering productivity in people, creating a welcoming enviroment for getting more people into tech especially women and building communities. 
 
-Some tools in my kit include Python, Numpy, Matplotlib, Tkinter, HTML5 and CSS.<br/>
+Some tools in my kit include Python, Numpy, Matplotlib, PowerBi, Tableau, M365 copilot, M365 apps, SQL.<br/>
 
 - 🔭 I’m currently acquiring more people and business analytics skills.
 - 👯 I’m looking to collaborate in creating usable products.
