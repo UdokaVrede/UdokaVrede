@@ -9,7 +9,7 @@
 Some tools in my kit include Python, Numpy, Matplotlib, PowerBi, Tableau, M365 copilot, M365 cloud apps, SQL.<br/>
 
 - 🔭 I’m currently acquiring cybersecurity skills.
-- 💬 Ask me about: AI for business transformation, Technical implementation and adoption, Workplace enablement and transformation, data analysis, and public speaking.
+- 💬 Ask me about: AI for business transformation, Technology design, implementation and adoption, Workplace enablement and transformation, data analysis, and public speaking.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak a bit of Dutch & French (thanks to Duolingo), make pastries, and love playing games.
 - My [blog](https://udoka.hashnode.dev/) here houses awesome articles. 
